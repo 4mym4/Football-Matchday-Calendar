@@ -1,0 +1,406 @@
+/* ---------------------------------------------------------------
+   Tokens
+--------------------------------------------------------------- */
+:root {
+  --bg: #0f1115;
+  --surface: #171a21;
+  --surface-2: #1d212a;
+  --border: #262b35;
+  --text: #f2f3f5;
+  --text-secondary: #9aa1b1;
+  --text-muted: #565d6d;
+  --focus-ring: #f2f3f5;
+
+  --font-body: 'Archivo', system-ui, -apple-system, sans-serif;
+  --font-display: 'Archivo Black', 'Archivo', system-ui, sans-serif;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+}
+
+body {
+  padding: 20px 16px 48px;
+}
+
+button, select {
+  font-family: inherit;
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+.app {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* ---------------------------------------------------------------
+   Header + controls
+--------------------------------------------------------------- */
+.app-header {
+  margin-bottom: 20px;
+}
+
+.app-title {
+  font-family: var(--font-display);
+  font-size: 22px;
+  letter-spacing: 0.01em;
+  margin: 0 0 16px;
+}
+
+.controls {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.control {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1 1 220px;
+  position: relative;
+}
+
+.control label {
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.tz-select {
+  appearance: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 10px 34px 10px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%239aa1b1' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+}
+
+.dropdown-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 10px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.dropdown-toggle .chevron {
+  color: var(--text-secondary);
+  flex-shrink: 0;
+  transition: transform 0.15s ease;
+}
+
+.dropdown-toggle[aria-expanded="true"] .chevron {
+  transform: rotate(180deg);
+}
+
+.league-panel {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 6px;
+  z-index: 20;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45);
+}
+
+.league-panel-actions {
+  display: flex;
+  gap: 6px;
+  padding: 4px 6px 8px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 4px;
+}
+
+.league-panel-actions button {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 2px 4px;
+}
+
+.league-panel-actions button:hover {
+  color: var(--text);
+}
+
+.league-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 8px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.league-option:hover {
+  background: var(--surface);
+}
+
+.league-option input {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--text);
+  cursor: pointer;
+}
+
+.league-option .swatch {
+  display: inline-flex;
+  flex-shrink: 0;
+}
+
+/* ---------------------------------------------------------------
+   Match panel (selected date + its fixtures)
+--------------------------------------------------------------- */
+.match-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 18px 18px 8px;
+  margin-bottom: 20px;
+}
+
+.match-panel-date {
+  font-family: var(--font-display);
+  font-size: 21px;
+  line-height: 1.25;
+  margin: 0 0 14px;
+}
+
+.match-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+  border-top: 1px solid var(--border);
+}
+
+.match-row .swatch {
+  flex-shrink: 0;
+}
+
+.match-row .teams {
+  flex: 1;
+  font-size: 14px;
+  min-width: 0;
+}
+
+.match-row .teams .matchup {
+  display: block;
+}
+
+.match-row .teams .vs {
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+.match-row .vs {
+  color: var(--text-muted);
+  font-size: 11px;
+  padding: 0 2px;
+}
+
+.match-row .league-name {
+  color: var(--text-secondary);
+  font-size: 11px;
+  margin-top: 2px;
+}
+
+.match-row .time {
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+  font-size: 14px;
+  color: var(--text-secondary);
+  text-align: right;
+}
+
+.status-tag {
+  display: inline-block;
+  margin-top: 3px;
+  font-size: 10px;
+  letter-spacing: 0.02em;
+  color: var(--bg);
+  background: var(--text-secondary);
+  border-radius: 3px;
+  padding: 1px 5px;
+}
+
+.match-panel-empty {
+  padding: 14px 0 18px;
+  color: var(--text-secondary);
+  font-size: 14px;
+  border-top: 1px solid var(--border);
+}
+
+/* ---------------------------------------------------------------
+   Calendar
+--------------------------------------------------------------- */
+.calendar-nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.nav-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.nav-btn:hover {
+  background: var(--surface-2);
+}
+
+.month-label {
+  font-family: var(--font-display);
+  font-size: 15px;
+  flex: 1;
+}
+
+.today-btn {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 12px;
+  font-size: 13px;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.today-btn:hover {
+  color: var(--text);
+  border-color: var(--text-secondary);
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.calendar-weekday {
+  text-align: center;
+  font-size: 11px;
+  color: var(--text-muted);
+  padding-bottom: 6px;
+}
+
+.day-cell {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  aspect-ratio: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  cursor: pointer;
+  padding: 2px;
+  min-height: 44px;
+}
+
+.day-cell:hover {
+  border-color: var(--text-secondary);
+}
+
+.day-cell.is-muted {
+  opacity: 0.35;
+}
+
+.day-cell.is-today .day-number {
+  color: var(--text);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.day-cell.is-selected {
+  background: var(--surface-2);
+  border-color: var(--text);
+}
+
+.day-number {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.day-markers {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  height: 10px;
+}
+
+.day-markers-more {
+  font-size: 9px;
+  color: var(--text-secondary);
+  line-height: 1;
+}
+
+/* ---------------------------------------------------------------
+   Footer
+--------------------------------------------------------------- */
+.app-footer {
+  margin-top: 18px;
+  font-size: 12px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+/* ---------------------------------------------------------------
+   Small screens
+--------------------------------------------------------------- */
+@media (max-width: 420px) {
+  .app-title {
+    font-size: 19px;
+  }
+  .match-panel-date {
+    font-size: 18px;
+  }
+}

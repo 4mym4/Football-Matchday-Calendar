@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Match Calendar — Europe's Top Leagues</title>
+  <meta name="description" content="Fixtures for the Premier League, La Liga, Serie A, Bundesliga, Ligue 1, and the Champions League, in your own time zone." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Archivo+Black&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="app-header">
+      <h1 class="app-title">Match Calendar</h1>
+
+      <div class="controls">
+        <div class="control">
+          <label for="timezone-select">Time zone</label>
+          <select id="timezone-select" class="tz-select"></select>
+        </div>
+
+        <div class="control league-control">
+          <label id="league-label">Leagues</label>
+          <button
+            type="button"
+            id="league-toggle"
+            class="dropdown-toggle"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-labelledby="league-label league-toggle-text"
+          >
+            <span id="league-toggle-text">All leagues</span>
+            <svg class="chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+              <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" />
+            </svg>
+          </button>
+          <div id="league-panel" class="league-panel" hidden></div>
+        </div>
+      </div>
+    </header>
+
+    <section class="match-panel" id="match-panel" aria-live="polite" aria-atomic="true">
+      <!-- Filled in by app.js: selected date headline + that day's matches -->
+    </section>
+
+    <section class="calendar-section">
+      <div class="calendar-nav">
+        <button type="button" id="prev-month" class="nav-btn" aria-label="Previous month">
+          <svg width="8" height="14" viewBox="0 0 8 14" aria-hidden="true"><path d="M7 1L1 7l6 6" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <span id="month-label" class="month-label"></span>
+        <button type="button" id="next-month" class="nav-btn" aria-label="Next month">
+          <svg width="8" height="14" viewBox="0 0 8 14" aria-hidden="true"><path d="M1 1l6 6-6 6" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <button type="button" id="today-btn" class="today-btn">Today</button>
+      </div>
+      <div id="calendar-container"></div>
+    </section>
+
+    <footer class="app-footer" id="app-footer">
+      <!-- Filled in by app.js: last-updated timestamp / load errors -->
+    </footer>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
