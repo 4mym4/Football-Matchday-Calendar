@@ -3,6 +3,13 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # The nightly fetch commits with the default GITHUB_TOKEN, and pushes
+  # made with that token don't trigger `on: push` workflows (GitHub's
+  # anti-recursion safeguard). So also deploy whenever that workflow
+  # finishes.
+  workflow_run:
+    workflows: [Update fixtures]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -17,6 +24,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
