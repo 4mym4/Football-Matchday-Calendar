@@ -176,10 +176,31 @@ button, select {
 }
 
 .league-option input {
+  appearance: none;
+  -webkit-appearance: none;
   width: 16px;
   height: 16px;
-  accent-color: var(--text);
+  margin: 0;
+  border: 1.5px solid var(--text);
+  border-radius: 4px;
+  background: var(--bg);
   cursor: pointer;
+  display: inline-grid;
+  place-content: center;
+}
+
+.league-option input::before {
+  content: '';
+  width: 9px;
+  height: 9px;
+  transform: scale(0);
+  transition: transform 0.1s ease-in-out;
+  box-shadow: inset 1em 1em var(--text);
+  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+}
+
+.league-option input:checked::before {
+  transform: scale(1);
 }
 
 .league-option .swatch {
