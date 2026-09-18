@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T08:35:44.895Z",
-  "windowStart": "2026-09-10",
-  "windowEnd": "2026-11-16",
+  "generatedAt": "2026-09-18T08:11:31.856Z",
+  "windowStart": "2026-09-11",
+  "windowEnd": "2026-11-17",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,72 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 575335,
-      "competition": "CL",
-      "utcDate": "2026-09-10T16:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Fenerbahçe SK",
-      "awayTeam": "AS Roma",
-      "venue": null
-    },
-    {
-      "id": 575336,
-      "competition": "CL",
-      "utcDate": "2026-09-10T16:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "PSV",
-      "awayTeam": "FK Shakhtar Donetsk",
-      "venue": null
-    },
-    {
-      "id": 575337,
-      "competition": "CL",
-      "utcDate": "2026-09-10T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "FC Bayern München",
-      "awayTeam": "FK Bodø/Glimt",
-      "venue": null
-    },
-    {
-      "id": 575338,
-      "competition": "CL",
-      "utcDate": "2026-09-10T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Manchester United FC",
-      "awayTeam": "Sabah FK",
-      "venue": null
-    },
-    {
-      "id": 575339,
-      "competition": "CL",
-      "utcDate": "2026-09-10T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Como 1907",
-      "awayTeam": "RB Leipzig",
-      "venue": null
-    },
-    {
-      "id": 575340,
-      "competition": "CL",
-      "utcDate": "2026-09-10T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "SK Slavia Praha",
-      "awayTeam": "Racing Club de Lens",
-      "venue": null
-    },
     {
       "id": 565797,
       "competition": "BL1",
@@ -687,7 +621,7 @@
       "id": 564686,
       "competition": "PD",
       "utcDate": "2026-09-17T17:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Betis Balompié",
@@ -698,7 +632,7 @@
       "id": 564683,
       "competition": "PD",
       "utcDate": "2026-09-17T19:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Málaga CF",
