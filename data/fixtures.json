@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-18T08:11:31.856Z",
-  "windowStart": "2026-09-11",
-  "windowEnd": "2026-11-17",
+  "generatedAt": "2026-09-19T07:59:43.868Z",
+  "windowStart": "2026-09-12",
+  "windowEnd": "2026-11-18",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,50 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 565797,
-      "competition": "BL1",
-      "utcDate": "2026-09-11T18:30:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "1. FC Union Berlin",
-      "awayTeam": "FC Schalke 04",
-      "venue": null
-    },
-    {
-      "id": 558606,
-      "competition": "SA",
-      "utcDate": "2026-09-11T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Venezia FC",
-      "awayTeam": "ACF Fiorentina",
-      "venue": null
-    },
-    {
-      "id": 559689,
-      "competition": "FL1",
-      "utcDate": "2026-09-11T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Stade Rennais FC 1901",
-      "awayTeam": "Olympique de Marseille",
-      "venue": null
-    },
-    {
-      "id": 564669,
-      "competition": "PD",
-      "utcDate": "2026-09-11T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Valencia CF",
-      "venue": null
-    },
     {
       "id": 564670,
       "competition": "PD",
@@ -574,17 +530,6 @@
       "venue": null
     },
     {
-      "id": 564685,
-      "competition": "PD",
-      "utcDate": "2026-09-16T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Levante UD",
-      "awayTeam": "Athletic Club",
-      "venue": null
-    },
-    {
       "id": 564679,
       "competition": "PD",
       "utcDate": "2026-09-16T17:00:00Z",
@@ -643,7 +588,7 @@
       "id": 565804,
       "competition": "BL1",
       "utcDate": "2026-09-18T18:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Bayern München",
@@ -654,7 +599,7 @@
       "id": 558596,
       "competition": "SA",
       "utcDate": "2026-09-18T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AC Monza",
@@ -665,7 +610,7 @@
       "id": 559682,
       "competition": "FL1",
       "utcDate": "2026-09-18T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AS Monaco FC",
@@ -676,7 +621,7 @@
       "id": 560591,
       "competition": "PL",
       "utcDate": "2026-09-18T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Brentford FC",
@@ -687,7 +632,7 @@
       "id": 564692,
       "competition": "PD",
       "utcDate": "2026-09-18T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RCD Espanyol de Barcelona",
@@ -2540,6 +2485,17 @@
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Lille OSC",
       "awayTeam": "Galatasaray SK",
+      "venue": null
+    },
+    {
+      "id": 564685,
+      "competition": "PD",
+      "utcDate": "2026-10-21T18:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Levante UD",
+      "awayTeam": "Athletic Club",
       "venue": null
     },
     {
