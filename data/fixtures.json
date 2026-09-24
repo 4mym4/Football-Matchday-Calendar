@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T08:30:34.143Z",
-  "windowStart": "2026-09-16",
-  "windowEnd": "2026-11-22",
+  "generatedAt": "2026-09-24T08:23:06.611Z",
+  "windowStart": "2026-09-17",
+  "windowEnd": "2026-11-23",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,39 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 564679,
-      "competition": "PD",
-      "utcDate": "2026-09-16T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RC Deportivo La Coruña",
-      "awayTeam": "Sevilla FC",
-      "venue": null
-    },
-    {
-      "id": 564684,
-      "competition": "PD",
-      "utcDate": "2026-09-16T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Club Atlético de Madrid",
-      "awayTeam": "CA Osasuna",
-      "venue": null
-    },
-    {
-      "id": 564687,
-      "competition": "PD",
-      "utcDate": "2026-09-16T19:30:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Barcelona",
-      "awayTeam": "Real Racing Club de Santander",
-      "venue": null
-    },
     {
       "id": 564686,
       "competition": "PD",
@@ -4443,6 +4410,39 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique de Marseille",
       "awayTeam": "Le Mans FC",
+      "venue": null
+    },
+    {
+      "id": 558519,
+      "competition": "SA",
+      "utcDate": "2026-11-23T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AC Monza",
+      "awayTeam": "ACF Fiorentina",
+      "venue": null
+    },
+    {
+      "id": 558521,
+      "competition": "SA",
+      "utcDate": "2026-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Juventus FC",
+      "awayTeam": "Venezia FC",
+      "venue": null
+    },
+    {
+      "id": 560649,
+      "competition": "PL",
+      "utcDate": "2026-11-23T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Everton FC",
       "venue": null
     }
   ]
