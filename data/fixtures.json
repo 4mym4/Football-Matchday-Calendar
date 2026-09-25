@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T08:23:06.611Z",
-  "windowStart": "2026-09-17",
-  "windowEnd": "2026-11-23",
+  "generatedAt": "2026-09-25T08:45:38.712Z",
+  "windowStart": "2026-09-18",
+  "windowEnd": "2026-11-24",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,28 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 564686,
-      "competition": "PD",
-      "utcDate": "2026-09-17T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Real Betis Balompié",
-      "awayTeam": "Getafe CF",
-      "venue": null
-    },
-    {
-      "id": 564683,
-      "competition": "PD",
-      "utcDate": "2026-09-17T19:30:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Málaga CF",
-      "awayTeam": "Villarreal CF",
-      "venue": null
-    },
     {
       "id": 565804,
       "competition": "BL1",
@@ -4443,6 +4421,105 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Brentford FC",
       "awayTeam": "Everton FC",
+      "venue": null
+    },
+    {
+      "id": 575395,
+      "competition": "CL",
+      "utcDate": "2026-11-24T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Galatasaray SK",
+      "awayTeam": "Aston Villa FC",
+      "venue": null
+    },
+    {
+      "id": 575396,
+      "competition": "CL",
+      "utcDate": "2026-11-24T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FK Bodø/Glimt",
+      "awayTeam": "LASK Linz",
+      "venue": null
+    },
+    {
+      "id": 575397,
+      "competition": "CL",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "PSV",
+      "venue": null
+    },
+    {
+      "id": 575398,
+      "competition": "CL",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Manchester City FC",
+      "awayTeam": "SSC Napoli",
+      "venue": null
+    },
+    {
+      "id": 575399,
+      "competition": "CL",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "Borussia Dortmund",
+      "venue": null
+    },
+    {
+      "id": 575400,
+      "competition": "CL",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Feyenoord Rotterdam",
+      "awayTeam": "FC Porto",
+      "venue": null
+    },
+    {
+      "id": 575401,
+      "competition": "CL",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "ŠK Slovan Bratislava",
+      "awayTeam": "Real Betis Balompié",
+      "venue": null
+    },
+    {
+      "id": 575402,
+      "competition": "CL",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Racing Club de Lens",
+      "venue": null
+    },
+    {
+      "id": 575403,
+      "competition": "CL",
+      "utcDate": "2026-11-24T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Como 1907",
+      "awayTeam": "PAE AEK",
       "venue": null
     }
   ]
