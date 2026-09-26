@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T08:45:38.712Z",
-  "windowStart": "2026-09-18",
-  "windowEnd": "2026-11-24",
+  "generatedAt": "2026-09-26T08:31:56.005Z",
+  "windowStart": "2026-09-19",
+  "windowEnd": "2026-11-25",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,61 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 565804,
-      "competition": "BL1",
-      "utcDate": "2026-09-18T18:30:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Bayern München",
-      "awayTeam": "1. FC Union Berlin",
-      "venue": null
-    },
-    {
-      "id": 558596,
-      "competition": "SA",
-      "utcDate": "2026-09-18T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "AC Monza",
-      "awayTeam": "US Sassuolo Calcio",
-      "venue": null
-    },
-    {
-      "id": 559682,
-      "competition": "FL1",
-      "utcDate": "2026-09-18T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "AS Monaco FC",
-      "awayTeam": "Racing Club de Lens",
-      "venue": null
-    },
-    {
-      "id": 560591,
-      "competition": "PL",
-      "utcDate": "2026-09-18T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 5,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Brentford FC",
-      "awayTeam": "Chelsea FC",
-      "venue": null
-    },
-    {
-      "id": 564692,
-      "competition": "PD",
-      "utcDate": "2026-09-18T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "awayTeam": "Elche CF",
-      "venue": null
-    },
     {
       "id": 560587,
       "competition": "PL",
@@ -4520,6 +4465,105 @@
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Como 1907",
       "awayTeam": "PAE AEK",
+      "venue": null
+    },
+    {
+      "id": 575404,
+      "competition": "CL",
+      "utcDate": "2026-11-25T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Sabah FK",
+      "awayTeam": "FC Barcelona",
+      "venue": null
+    },
+    {
+      "id": 575405,
+      "competition": "CL",
+      "utcDate": "2026-11-25T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "SK Slavia Praha",
+      "awayTeam": "Villarreal CF",
+      "venue": null
+    },
+    {
+      "id": 575406,
+      "competition": "CL",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "VfB Stuttgart",
+      "venue": null
+    },
+    {
+      "id": 575407,
+      "competition": "CL",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Club Atlético de Madrid",
+      "awayTeam": "Viking FK",
+      "venue": null
+    },
+    {
+      "id": 575408,
+      "competition": "CL",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "AS Roma",
+      "venue": null
+    },
+    {
+      "id": 575409,
+      "competition": "CL",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Club Brugge KV",
+      "awayTeam": "Liverpool FC",
+      "venue": null
+    },
+    {
+      "id": 575410,
+      "competition": "CL",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Lille OSC",
+      "awayTeam": "FC Bayern München",
+      "venue": null
+    },
+    {
+      "id": 575411,
+      "competition": "CL",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Sporting Clube de Portugal",
+      "awayTeam": "Manchester United FC",
+      "venue": null
+    },
+    {
+      "id": 575412,
+      "competition": "CL",
+      "utcDate": "2026-11-25T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FK Shakhtar Donetsk",
+      "awayTeam": "Fenerbahçe SK",
       "venue": null
     }
   ]
