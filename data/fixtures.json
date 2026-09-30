@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T09:44:52.445Z",
-  "windowStart": "2026-09-22",
-  "windowEnd": "2026-11-28",
+  "generatedAt": "2026-09-30T09:36:55.381Z",
+  "windowStart": "2026-09-23",
+  "windowEnd": "2026-11-29",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -4421,6 +4421,182 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Málaga CF",
       "awayTeam": "Athletic Club",
+      "venue": null
+    },
+    {
+      "id": 558517,
+      "competition": "SA",
+      "utcDate": "2026-11-29T11:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "ACF Fiorentina",
+      "venue": null
+    },
+    {
+      "id": 560656,
+      "competition": "PL",
+      "utcDate": "2026-11-29T12:00:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Everton FC",
+      "awayTeam": "Liverpool FC",
+      "venue": null
+    },
+    {
+      "id": 558509,
+      "competition": "SA",
+      "utcDate": "2026-11-29T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "US Sassuolo Calcio",
+      "awayTeam": "SSC Napoli",
+      "venue": null
+    },
+    {
+      "id": 559619,
+      "competition": "FL1",
+      "utcDate": "2026-11-29T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AJ Auxerre",
+      "awayTeam": "Olympique de Marseille",
+      "venue": null
+    },
+    {
+      "id": 560657,
+      "competition": "PL",
+      "utcDate": "2026-11-29T14:05:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Fulham FC",
+      "awayTeam": "AFC Bournemouth",
+      "venue": null
+    },
+    {
+      "id": 560659,
+      "competition": "PL",
+      "utcDate": "2026-11-29T14:05:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Brighton & Hove Albion FC",
+      "awayTeam": "Newcastle United FC",
+      "venue": null
+    },
+    {
+      "id": 560660,
+      "competition": "PL",
+      "utcDate": "2026-11-29T14:05:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Tottenham Hotspur FC",
+      "venue": null
+    },
+    {
+      "id": 560661,
+      "competition": "PL",
+      "utcDate": "2026-11-29T14:05:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "Hull City AFC",
+      "venue": null
+    },
+    {
+      "id": 565873,
+      "competition": "BL1",
+      "utcDate": "2026-11-29T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "RB Leipzig",
+      "venue": null
+    },
+    {
+      "id": 559618,
+      "competition": "FL1",
+      "utcDate": "2026-11-29T16:15:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Toulouse FC",
+      "awayTeam": "Stade Rennais FC 1901",
+      "venue": null
+    },
+    {
+      "id": 560654,
+      "competition": "PL",
+      "utcDate": "2026-11-29T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "Manchester City FC",
+      "venue": null
+    },
+    {
+      "id": 565871,
+      "competition": "BL1",
+      "utcDate": "2026-11-29T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "FC Augsburg",
+      "venue": null
+    },
+    {
+      "id": 558512,
+      "competition": "SA",
+      "utcDate": "2026-11-29T17:00:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AS Roma",
+      "awayTeam": "AC Monza",
+      "venue": null
+    },
+    {
+      "id": 565872,
+      "competition": "BL1",
+      "utcDate": "2026-11-29T18:30:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "venue": null
+    },
+    {
+      "id": 558511,
+      "competition": "SA",
+      "utcDate": "2026-11-29T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Como 1907",
+      "awayTeam": "Juventus FC",
+      "venue": null
+    },
+    {
+      "id": 559615,
+      "competition": "FL1",
+      "utcDate": "2026-11-29T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "AS Monaco FC",
       "venue": null
     }
   ]
