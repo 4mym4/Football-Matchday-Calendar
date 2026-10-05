@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T09:41:57.626Z",
-  "windowStart": "2026-09-27",
-  "windowEnd": "2026-12-03",
+  "generatedAt": "2026-10-05T10:19:43.004Z",
+  "windowStart": "2026-09-28",
+  "windowEnd": "2026-12-04",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -4729,6 +4729,215 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "AFC Bournemouth",
       "awayTeam": "Brighton & Hove Albion FC",
+      "venue": null
+    },
+    {
+      "id": 558502,
+      "competition": "SA",
+      "utcDate": "2026-12-04T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Bologna FC 1909",
+      "awayTeam": "AS Roma",
+      "venue": null
+    },
+    {
+      "id": 565875,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "Hamburger SV",
+      "venue": null
+    },
+    {
+      "id": 565876,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "Borussia Dortmund",
+      "venue": null
+    },
+    {
+      "id": 565877,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "Borussia Mönchengladbach",
+      "venue": null
+    },
+    {
+      "id": 565878,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "SV Werder Bremen",
+      "venue": null
+    },
+    {
+      "id": 565879,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "1. FSV Mainz 05",
+      "venue": null
+    },
+    {
+      "id": 565880,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SV 07 Elversberg",
+      "awayTeam": "VfB Stuttgart",
+      "venue": null
+    },
+    {
+      "id": 565881,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "venue": null
+    },
+    {
+      "id": 565882,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "SC Paderborn 07",
+      "venue": null
+    },
+    {
+      "id": 565883,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "1. FC Köln",
+      "venue": null
+    },
+    {
+      "id": 559603,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "ES Troyes AC",
+      "awayTeam": "Olympique Lyonnais",
+      "venue": null
+    },
+    {
+      "id": 559604,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AS Monaco FC",
+      "awayTeam": "Angers SCO",
+      "venue": null
+    },
+    {
+      "id": 559605,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Racing Club de Lens",
+      "awayTeam": "Le Havre AC",
+      "venue": null
+    },
+    {
+      "id": 559606,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Lille OSC",
+      "awayTeam": "AJ Auxerre",
+      "venue": null
+    },
+    {
+      "id": 559607,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Olympique de Marseille",
+      "awayTeam": "OGC Nice",
+      "venue": null
+    },
+    {
+      "id": 559608,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Stade Rennais FC 1901",
+      "awayTeam": "Stade Brestois 29",
+      "venue": null
+    },
+    {
+      "id": 559609,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Toulouse FC",
+      "awayTeam": "Paris Saint-Germain FC",
+      "venue": null
+    },
+    {
+      "id": 559610,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "FC Lorient",
+      "venue": null
+    },
+    {
+      "id": 559611,
+      "competition": "FL1",
+      "utcDate": "2026-12-05T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Le Mans FC",
       "venue": null
     }
   ]
