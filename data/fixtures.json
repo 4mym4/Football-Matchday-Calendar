@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T10:11:26.164Z",
-  "windowStart": "2026-09-29",
-  "windowEnd": "2026-12-05",
+  "generatedAt": "2026-10-07T10:10:41.808Z",
+  "windowStart": "2026-09-30",
+  "windowEnd": "2026-12-06",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -5191,6 +5191,50 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Rayo Vallecano de Madrid",
       "awayTeam": "Levante UD",
+      "venue": null
+    },
+    {
+      "id": 558499,
+      "competition": "SA",
+      "utcDate": "2026-12-06T11:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "Torino FC",
+      "venue": null
+    },
+    {
+      "id": 558504,
+      "competition": "SA",
+      "utcDate": "2026-12-06T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SS Lazio",
+      "awayTeam": "Atalanta BC",
+      "venue": null
+    },
+    {
+      "id": 558500,
+      "competition": "SA",
+      "utcDate": "2026-12-06T17:00:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Juventus FC",
+      "awayTeam": "Udinese Calcio",
+      "venue": null
+    },
+    {
+      "id": 558505,
+      "competition": "SA",
+      "utcDate": "2026-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Parma Calcio 1913",
       "venue": null
     }
   ]
