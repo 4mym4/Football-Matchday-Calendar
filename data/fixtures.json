@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-08T10:28:49.919Z",
-  "windowStart": "2026-10-01",
-  "windowEnd": "2026-12-07",
+  "generatedAt": "2026-10-09T10:27:21.059Z",
+  "windowStart": "2026-10-02",
+  "windowEnd": "2026-12-08",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -5257,6 +5257,105 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "ACF Fiorentina",
       "awayTeam": "Cagliari Calcio",
+      "venue": null
+    },
+    {
+      "id": 575413,
+      "competition": "CL",
+      "utcDate": "2026-12-08T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "Sabah FK",
+      "venue": null
+    },
+    {
+      "id": 575414,
+      "competition": "CL",
+      "utcDate": "2026-12-08T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Viking FK",
+      "awayTeam": "Feyenoord Rotterdam",
+      "venue": null
+    },
+    {
+      "id": 575415,
+      "competition": "CL",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Manchester City FC",
+      "venue": null
+    },
+    {
+      "id": 575416,
+      "competition": "CL",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Aston Villa FC",
+      "awayTeam": "Paris Saint-Germain FC",
+      "venue": null
+    },
+    {
+      "id": 575417,
+      "competition": "CL",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "SK Slavia Praha",
+      "venue": null
+    },
+    {
+      "id": 575418,
+      "competition": "CL",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "SSC Napoli",
+      "awayTeam": "Club Brugge KV",
+      "venue": null
+    },
+    {
+      "id": 575419,
+      "competition": "CL",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Sporting Clube de Portugal",
+      "venue": null
+    },
+    {
+      "id": 575420,
+      "competition": "CL",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Manchester United FC",
+      "awayTeam": "RB Leipzig",
+      "venue": null
+    },
+    {
+      "id": 575421,
+      "competition": "CL",
+      "utcDate": "2026-12-08T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "PAE AEK",
+      "awayTeam": "Galatasaray SK",
       "venue": null
     }
   ]
