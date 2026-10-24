@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T08:28:08.219Z",
-  "windowStart": "2026-10-16",
-  "windowEnd": "2026-12-22",
+  "generatedAt": "2026-10-24T08:03:01.971Z",
+  "windowStart": "2026-10-17",
+  "windowEnd": "2026-12-23",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,50 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 565828,
-      "competition": "BL1",
-      "utcDate": "2026-10-16T18:30:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "1. FC Köln",
-      "venue": null
-    },
-    {
-      "id": 558573,
-      "competition": "SA",
-      "utcDate": "2026-10-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Frosinone Calcio",
-      "awayTeam": "US Sassuolo Calcio",
-      "venue": null
-    },
-    {
-      "id": 559661,
-      "competition": "FL1",
-      "utcDate": "2026-10-16T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 7,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Le Mans FC",
-      "awayTeam": "Toulouse FC",
-      "venue": null
-    },
-    {
-      "id": 564716,
-      "competition": "PD",
-      "utcDate": "2026-10-16T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RC Deportivo La Coruña",
-      "awayTeam": "Levante UD",
-      "venue": null
-    },
     {
       "id": 560603,
       "competition": "PL",
@@ -753,7 +709,7 @@
       "id": 565833,
       "competition": "BL1",
       "utcDate": "2026-10-23T18:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "homeTeam": "VfB Stuttgart",
@@ -764,7 +720,7 @@
       "id": 558567,
       "competition": "SA",
       "utcDate": "2026-10-23T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Torino FC",
@@ -775,7 +731,7 @@
       "id": 559654,
       "competition": "FL1",
       "utcDate": "2026-10-23T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Stade Brestois 29",
@@ -786,7 +742,7 @@
       "id": 560620,
       "competition": "PL",
       "utcDate": "2026-10-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Ipswich Town FC",
@@ -797,7 +753,7 @@
       "id": 564719,
       "competition": "PD",
       "utcDate": "2026-10-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Deportivo Alavés",
@@ -1245,17 +1201,6 @@
       "venue": null
     },
     {
-      "id": 559648,
-      "competition": "FL1",
-      "utcDate": "2026-10-25T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 8,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Paris Saint-Germain FC",
-      "awayTeam": "Olympique Lyonnais",
-      "venue": null
-    },
-    {
       "id": 564723,
       "competition": "PD",
       "utcDate": "2026-10-25T20:00:00Z",
@@ -1264,6 +1209,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Barcelona",
       "awayTeam": "Real Madrid CF",
+      "venue": null
+    },
+    {
+      "id": 559648,
+      "competition": "FL1",
+      "utcDate": "2026-10-26T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 8,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "Olympique Lyonnais",
       "venue": null
     },
     {
