@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T08:54:18.285Z",
-  "windowStart": "2026-10-20",
-  "windowEnd": "2026-12-26",
+  "generatedAt": "2026-10-28T09:34:00.743Z",
+  "windowStart": "2026-10-21",
+  "windowEnd": "2026-12-27",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,105 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 575359,
-      "competition": "CL",
-      "utcDate": "2026-10-20T16:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Sabah FK",
-      "awayTeam": "Borussia Dortmund",
-      "venue": null
-    },
-    {
-      "id": 575360,
-      "competition": "CL",
-      "utcDate": "2026-10-20T16:45:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Fenerbahçe SK",
-      "awayTeam": "SK Slavia Praha",
-      "venue": null
-    },
-    {
-      "id": 575361,
-      "competition": "CL",
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Manchester City FC",
-      "awayTeam": "PAE AEK",
-      "venue": null
-    },
-    {
-      "id": 575362,
-      "competition": "CL",
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "VfB Stuttgart",
-      "awayTeam": "Club Atlético de Madrid",
-      "venue": null
-    },
-    {
-      "id": 575363,
-      "competition": "CL",
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Liverpool FC",
-      "awayTeam": "Villarreal CF",
-      "venue": null
-    },
-    {
-      "id": 575364,
-      "competition": "CL",
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "AS Roma",
-      "awayTeam": "ŠK Slovan Bratislava",
-      "venue": null
-    },
-    {
-      "id": 575365,
-      "competition": "CL",
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "FC Porto",
-      "awayTeam": "PSV",
-      "venue": null
-    },
-    {
-      "id": 575366,
-      "competition": "CL",
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "SSC Napoli",
-      "awayTeam": "FK Bodø/Glimt",
-      "venue": null
-    },
-    {
-      "id": 575367,
-      "competition": "CL",
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": 3,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Paris Saint-Germain FC",
-      "awayTeam": "FC Barcelona",
-      "venue": null
-    },
     {
       "id": 575368,
       "competition": "CL",
@@ -753,7 +654,7 @@
       "id": 558556,
       "competition": "SA",
       "utcDate": "2026-10-27T17:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "homeTeam": "US Sassuolo Calcio",
@@ -764,7 +665,7 @@
       "id": 558555,
       "competition": "SA",
       "utcDate": "2026-10-27T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AS Roma",
@@ -775,7 +676,7 @@
       "id": 558557,
       "competition": "SA",
       "utcDate": "2026-10-27T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Torino FC",
@@ -868,6 +769,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Le Havre AC",
       "awayTeam": "Paris Saint-Germain FC",
+      "venue": null
+    },
+    {
+      "id": 559646,
+      "competition": "FL1",
+      "utcDate": "2026-10-30T18:00:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "OGC Nice",
+      "awayTeam": "Stade Rennais FC 1901",
       "venue": null
     },
     {
@@ -1058,17 +970,6 @@
       "venue": null
     },
     {
-      "id": 559646,
-      "competition": "FL1",
-      "utcDate": "2026-10-31T16:15:00Z",
-      "status": "TIMED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "OGC Nice",
-      "awayTeam": "Stade Rennais FC 1901",
-      "venue": null
-    },
-    {
       "id": 558542,
       "competition": "SA",
       "utcDate": "2026-10-31T17:00:00Z",
@@ -1121,28 +1022,6 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "AC Milan",
       "awayTeam": "FC Internazionale Milano",
-      "venue": null
-    },
-    {
-      "id": 559640,
-      "competition": "FL1",
-      "utcDate": "2026-10-31T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Olympique Lyonnais",
-      "awayTeam": "Angers SCO",
-      "venue": null
-    },
-    {
-      "id": 559641,
-      "competition": "FL1",
-      "utcDate": "2026-10-31T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Lorient",
-      "awayTeam": "Stade Brestois 29",
       "venue": null
     },
     {
@@ -1256,6 +1135,17 @@
       "venue": null
     },
     {
+      "id": 559640,
+      "competition": "FL1",
+      "utcDate": "2026-11-01T16:15:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "Angers SCO",
+      "venue": null
+    },
+    {
       "id": 559642,
       "competition": "FL1",
       "utcDate": "2026-11-01T16:15:00Z",
@@ -1363,6 +1253,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Atalanta BC",
       "awayTeam": "Parma Calcio 1913",
+      "venue": null
+    },
+    {
+      "id": 559641,
+      "competition": "FL1",
+      "utcDate": "2026-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Lorient",
+      "awayTeam": "Stade Brestois 29",
       "venue": null
     },
     {
@@ -5235,6 +5136,39 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Newcastle United FC",
       "awayTeam": "Manchester City FC",
+      "venue": null
+    },
+    {
+      "id": 560706,
+      "competition": "PL",
+      "utcDate": "2026-12-27T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 17,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Coventry City FC",
+      "awayTeam": "Chelsea FC",
+      "venue": null
+    },
+    {
+      "id": 560703,
+      "competition": "PL",
+      "utcDate": "2026-12-27T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 17,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Manchester United FC",
+      "awayTeam": "Nottingham Forest FC",
+      "venue": null
+    },
+    {
+      "id": 560704,
+      "competition": "PL",
+      "utcDate": "2026-12-27T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 17,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "Arsenal FC",
       "venue": null
     }
   ]
