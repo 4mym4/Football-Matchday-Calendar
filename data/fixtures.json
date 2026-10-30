@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-29T09:51:45.865Z",
-  "windowStart": "2026-10-22",
-  "windowEnd": "2026-12-28",
+  "generatedAt": "2026-10-30T09:55:40.801Z",
+  "windowStart": "2026-10-23",
+  "windowEnd": "2026-12-29",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -632,7 +632,7 @@
       "id": 558558,
       "competition": "SA",
       "utcDate": "2026-10-29T17:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Frosinone Calcio",
@@ -643,7 +643,7 @@
       "id": 558551,
       "competition": "SA",
       "utcDate": "2026-10-29T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "homeTeam": "ACF Fiorentina",
@@ -5059,6 +5059,39 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Crystal Palace FC",
       "awayTeam": "Arsenal FC",
+      "venue": null
+    },
+    {
+      "id": 560716,
+      "competition": "PL",
+      "utcDate": "2026-12-29T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 18,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Hull City AFC",
+      "awayTeam": "Leeds United FC",
+      "venue": null
+    },
+    {
+      "id": 560719,
+      "competition": "PL",
+      "utcDate": "2026-12-29T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 18,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Tottenham Hotspur FC",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "venue": null
+    },
+    {
+      "id": 560720,
+      "competition": "PL",
+      "utcDate": "2026-12-29T20:15:00Z",
+      "status": "TIMED",
+      "matchday": 18,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Everton FC",
+      "awayTeam": "Manchester City FC",
       "venue": null
     }
   ]
