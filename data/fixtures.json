@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T10:46:21.235Z",
-  "windowStart": "2026-10-29",
-  "windowEnd": "2027-01-04",
+  "generatedAt": "2026-11-06T10:46:26.771Z",
+  "windowStart": "2026-10-30",
+  "windowEnd": "2027-01-05",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,28 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 558558,
-      "competition": "SA",
-      "utcDate": "2026-10-29T17:30:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Frosinone Calcio",
-      "awayTeam": "US Lecce",
-      "venue": null
-    },
-    {
-      "id": 558551,
-      "competition": "SA",
-      "utcDate": "2026-10-29T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "ACF Fiorentina",
-      "awayTeam": "Atalanta BC",
-      "venue": null
-    },
     {
       "id": 559644,
       "competition": "FL1",
@@ -2653,6 +2631,17 @@
       "venue": null
     },
     {
+      "id": 565882,
+      "competition": "BL1",
+      "utcDate": "2026-12-04T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "SC Paderborn 07",
+      "venue": null
+    },
+    {
       "id": 558502,
       "competition": "SA",
       "utcDate": "2026-12-04T19:45:00Z",
@@ -2675,105 +2664,6 @@
       "venue": null
     },
     {
-      "id": 565875,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "1. FC Union Berlin",
-      "awayTeam": "Hamburger SV",
-      "venue": null
-    },
-    {
-      "id": 565876,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Schalke 04",
-      "awayTeam": "Borussia Dortmund",
-      "venue": null
-    },
-    {
-      "id": 565877,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Bayer 04 Leverkusen",
-      "awayTeam": "Borussia Mönchengladbach",
-      "venue": null
-    },
-    {
-      "id": 565878,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "SV Werder Bremen",
-      "venue": null
-    },
-    {
-      "id": 565879,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "1. FSV Mainz 05",
-      "venue": null
-    },
-    {
-      "id": 565880,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "SV 07 Elversberg",
-      "awayTeam": "VfB Stuttgart",
-      "venue": null
-    },
-    {
-      "id": 565881,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "SC Freiburg",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "venue": null
-    },
-    {
-      "id": 565882,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Bayern München",
-      "awayTeam": "SC Paderborn 07",
-      "venue": null
-    },
-    {
-      "id": 565883,
-      "competition": "BL1",
-      "utcDate": "2026-12-05T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Augsburg",
-      "awayTeam": "1. FC Köln",
-      "venue": null
-    },
-    {
       "id": 560676,
       "competition": "PL",
       "utcDate": "2026-12-05T12:30:00Z",
@@ -2793,6 +2683,61 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "AC Monza",
       "awayTeam": "Como 1907",
+      "venue": null
+    },
+    {
+      "id": 565875,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "Hamburger SV",
+      "venue": null
+    },
+    {
+      "id": 565877,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "Borussia Mönchengladbach",
+      "venue": null
+    },
+    {
+      "id": 565879,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "1. FSV Mainz 05",
+      "venue": null
+    },
+    {
+      "id": 565881,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "venue": null
+    },
+    {
+      "id": 565883,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "1. FC Köln",
       "venue": null
     },
     {
@@ -2870,6 +2815,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Nottingham Forest FC",
       "awayTeam": "Brighton & Hove Albion FC",
+      "venue": null
+    },
+    {
+      "id": 565878,
+      "competition": "BL1",
+      "utcDate": "2026-12-05T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "SV Werder Bremen",
       "venue": null
     },
     {
@@ -3104,6 +3060,17 @@
       "venue": null
     },
     {
+      "id": 565876,
+      "competition": "BL1",
+      "utcDate": "2026-12-06T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "Borussia Dortmund",
+      "venue": null
+    },
+    {
       "id": 559608,
       "competition": "FL1",
       "utcDate": "2026-12-06T16:15:00Z",
@@ -3123,6 +3090,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Tottenham Hotspur FC",
       "awayTeam": "Arsenal FC",
+      "venue": null
+    },
+    {
+      "id": 565880,
+      "competition": "BL1",
+      "utcDate": "2026-12-06T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SV 07 Elversberg",
+      "awayTeam": "VfB Stuttgart",
       "venue": null
     },
     {
@@ -3390,6 +3368,17 @@
       "venue": null
     },
     {
+      "id": 565888,
+      "competition": "BL1",
+      "utcDate": "2026-12-11T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "FC Schalke 04",
+      "venue": null
+    },
+    {
       "id": 558491,
       "competition": "SA",
       "utcDate": "2026-12-11T19:45:00Z",
@@ -3412,10 +3401,21 @@
       "venue": null
     },
     {
+      "id": 558494,
+      "competition": "SA",
+      "utcDate": "2026-12-12T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "Venezia FC",
+      "venue": null
+    },
+    {
       "id": 565884,
       "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "homeTeam": "SC Paderborn 07",
@@ -3423,21 +3423,10 @@
       "venue": null
     },
     {
-      "id": 565885,
-      "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 13,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "SV Werder Bremen",
-      "awayTeam": "Bayer 04 Leverkusen",
-      "venue": null
-    },
-    {
       "id": 565886,
       "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "homeTeam": "VfB Stuttgart",
@@ -3447,8 +3436,8 @@
     {
       "id": 565887,
       "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Borussia Dortmund",
@@ -3456,69 +3445,14 @@
       "venue": null
     },
     {
-      "id": 565888,
-      "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 13,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Hamburger SV",
-      "awayTeam": "FC Schalke 04",
-      "venue": null
-    },
-    {
-      "id": 565889,
-      "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 13,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "1. FSV Mainz 05",
-      "awayTeam": "SC Freiburg",
-      "venue": null
-    },
-    {
       "id": 565890,
       "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "utcDate": "2026-12-12T14:30:00Z",
+      "status": "TIMED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "homeTeam": "1. FC Köln",
       "awayTeam": "RB Leipzig",
-      "venue": null
-    },
-    {
-      "id": 565891,
-      "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 13,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "TSG 1899 Hoffenheim",
-      "awayTeam": "FC Bayern München",
-      "venue": null
-    },
-    {
-      "id": 565892,
-      "competition": "BL1",
-      "utcDate": "2026-12-12T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 13,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Borussia Mönchengladbach",
-      "awayTeam": "Eintracht Frankfurt",
-      "venue": null
-    },
-    {
-      "id": 558494,
-      "competition": "SA",
-      "utcDate": "2026-12-12T14:00:00Z",
-      "status": "TIMED",
-      "matchday": 15,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Cagliari Calcio",
-      "awayTeam": "Venezia FC",
       "venue": null
     },
     {
@@ -3585,6 +3519,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Manchester City FC",
       "awayTeam": "Chelsea FC",
+      "venue": null
+    },
+    {
+      "id": 565892,
+      "competition": "BL1",
+      "utcDate": "2026-12-12T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Borussia Mönchengladbach",
+      "awayTeam": "Eintracht Frankfurt",
       "venue": null
     },
     {
@@ -3819,6 +3764,17 @@
       "venue": null
     },
     {
+      "id": 565889,
+      "competition": "BL1",
+      "utcDate": "2026-12-13T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "SC Freiburg",
+      "venue": null
+    },
+    {
       "id": 559600,
       "competition": "FL1",
       "utcDate": "2026-12-13T16:15:00Z",
@@ -3841,6 +3797,17 @@
       "venue": null
     },
     {
+      "id": 565891,
+      "competition": "BL1",
+      "utcDate": "2026-12-13T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "FC Bayern München",
+      "venue": null
+    },
+    {
       "id": 558493,
       "competition": "SA",
       "utcDate": "2026-12-13T17:00:00Z",
@@ -3849,6 +3816,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Parma Calcio 1913",
       "awayTeam": "ACF Fiorentina",
+      "venue": null
+    },
+    {
+      "id": 565885,
+      "competition": "BL1",
+      "utcDate": "2026-12-13T18:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "Bayer 04 Leverkusen",
       "venue": null
     },
     {
@@ -3929,6 +3907,17 @@
       "venue": null
     },
     {
+      "id": 565894,
+      "competition": "BL1",
+      "utcDate": "2026-12-18T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "SV Werder Bremen",
+      "venue": null
+    },
+    {
       "id": 558486,
       "competition": "SA",
       "utcDate": "2026-12-18T19:45:00Z",
@@ -3937,105 +3926,6 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "US Lecce",
       "awayTeam": "FC Internazionale Milano",
-      "venue": null
-    },
-    {
-      "id": 565893,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Schalke 04",
-      "awayTeam": "Borussia Mönchengladbach",
-      "venue": null
-    },
-    {
-      "id": 565894,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Bayern München",
-      "awayTeam": "SV Werder Bremen",
-      "venue": null
-    },
-    {
-      "id": 565895,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "SV 07 Elversberg",
-      "awayTeam": "Hamburger SV",
-      "venue": null
-    },
-    {
-      "id": 565896,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Bayer 04 Leverkusen",
-      "awayTeam": "Eintracht Frankfurt",
-      "venue": null
-    },
-    {
-      "id": 565897,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "SC Freiburg",
-      "awayTeam": "VfB Stuttgart",
-      "venue": null
-    },
-    {
-      "id": 565898,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Borussia Dortmund",
-      "venue": null
-    },
-    {
-      "id": 565899,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "1. FSV Mainz 05",
-      "awayTeam": "1. FC Köln",
-      "venue": null
-    },
-    {
-      "id": 565900,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "1. FC Union Berlin",
-      "awayTeam": "TSG 1899 Hoffenheim",
-      "venue": null
-    },
-    {
-      "id": 565901,
-      "competition": "BL1",
-      "utcDate": "2026-12-19T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Augsburg",
-      "awayTeam": "SC Paderborn 07",
       "venue": null
     },
     {
@@ -4058,6 +3948,50 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "US Sassuolo Calcio",
       "awayTeam": "Parma Calcio 1913",
+      "venue": null
+    },
+    {
+      "id": 565895,
+      "competition": "BL1",
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SV 07 Elversberg",
+      "awayTeam": "Hamburger SV",
+      "venue": null
+    },
+    {
+      "id": 565896,
+      "competition": "BL1",
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "Eintracht Frankfurt",
+      "venue": null
+    },
+    {
+      "id": 565899,
+      "competition": "BL1",
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "1. FC Köln",
+      "venue": null
+    },
+    {
+      "id": 565901,
+      "competition": "BL1",
+      "utcDate": "2026-12-19T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "SC Paderborn 07",
       "venue": null
     },
     {
@@ -4113,6 +4047,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Liverpool FC",
       "awayTeam": "Tottenham Hotspur FC",
+      "venue": null
+    },
+    {
+      "id": 565898,
+      "competition": "BL1",
+      "utcDate": "2026-12-19T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Borussia Dortmund",
       "venue": null
     },
     {
@@ -4303,6 +4248,17 @@
       "venue": null
     },
     {
+      "id": 565897,
+      "competition": "BL1",
+      "utcDate": "2026-12-20T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "VfB Stuttgart",
+      "venue": null
+    },
+    {
       "id": 560699,
       "competition": "PL",
       "utcDate": "2026-12-20T16:30:00Z",
@@ -4314,6 +4270,17 @@
       "venue": null
     },
     {
+      "id": 565900,
+      "competition": "BL1",
+      "utcDate": "2026-12-20T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "venue": null
+    },
+    {
       "id": 558485,
       "competition": "SA",
       "utcDate": "2026-12-20T17:00:00Z",
@@ -4322,6 +4289,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Genoa CFC",
       "awayTeam": "Udinese Calcio",
+      "venue": null
+    },
+    {
+      "id": 565893,
+      "competition": "BL1",
+      "utcDate": "2026-12-20T18:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "Borussia Mönchengladbach",
       "venue": null
     },
     {
@@ -4993,6 +4971,94 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Racing Club de Lens",
       "awayTeam": "Paris Saint-Germain FC",
+      "venue": null
+    },
+    {
+      "id": 558461,
+      "competition": "SA",
+      "utcDate": "2027-01-05T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 18,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "AC Monza",
+      "venue": null
+    },
+    {
+      "id": 558462,
+      "competition": "SA",
+      "utcDate": "2027-01-05T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 18,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Venezia FC",
+      "awayTeam": "AS Roma",
+      "venue": null
+    },
+    {
+      "id": 560732,
+      "competition": "PL",
+      "utcDate": "2027-01-05T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 20,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Arsenal FC",
+      "awayTeam": "Brentford FC",
+      "venue": null
+    },
+    {
+      "id": 560735,
+      "competition": "PL",
+      "utcDate": "2027-01-05T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 20,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Brighton & Hove Albion FC",
+      "awayTeam": "AFC Bournemouth",
+      "venue": null
+    },
+    {
+      "id": 560736,
+      "competition": "PL",
+      "utcDate": "2027-01-05T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 20,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Nottingham Forest FC",
+      "awayTeam": "Hull City AFC",
+      "venue": null
+    },
+    {
+      "id": 560738,
+      "competition": "PL",
+      "utcDate": "2027-01-05T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 20,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Everton FC",
+      "awayTeam": "Aston Villa FC",
+      "venue": null
+    },
+    {
+      "id": 558464,
+      "competition": "SA",
+      "utcDate": "2027-01-05T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 18,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AC Milan",
+      "awayTeam": "ACF Fiorentina",
+      "venue": null
+    },
+    {
+      "id": 560739,
+      "competition": "PL",
+      "utcDate": "2027-01-05T20:15:00Z",
+      "status": "TIMED",
+      "matchday": 20,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Liverpool FC",
       "venue": null
     }
   ]
