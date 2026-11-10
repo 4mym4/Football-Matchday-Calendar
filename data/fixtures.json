@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-09T11:23:35.198Z",
-  "windowStart": "2026-11-02",
-  "windowEnd": "2027-01-08",
+  "generatedAt": "2026-11-10T11:03:33.644Z",
+  "windowStart": "2026-11-03",
+  "windowEnd": "2027-01-09",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,61 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 558541,
-      "competition": "SA",
-      "utcDate": "2026-11-02T17:30:00Z",
-      "status": "FINISHED",
-      "matchday": 10,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "US Sassuolo Calcio",
-      "awayTeam": "ACF Fiorentina",
-      "venue": null
-    },
-    {
-      "id": 558545,
-      "competition": "SA",
-      "utcDate": "2026-11-02T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 10,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Atalanta BC",
-      "awayTeam": "Parma Calcio 1913",
-      "venue": null
-    },
-    {
-      "id": 559641,
-      "competition": "FL1",
-      "utcDate": "2026-11-02T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Lorient",
-      "awayTeam": "Stade Brestois 29",
-      "venue": null
-    },
-    {
-      "id": 560622,
-      "competition": "PL",
-      "utcDate": "2026-11-02T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Newcastle United FC",
-      "awayTeam": "Everton FC",
-      "venue": null
-    },
-    {
-      "id": 564731,
-      "competition": "PD",
-      "utcDate": "2026-11-02T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 11,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RC Deportivo La Coruña",
-      "awayTeam": "CA Osasuna",
-      "venue": null
-    },
     {
       "id": 575377,
       "competition": "CL",
@@ -4751,6 +4696,215 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "1. FSV Mainz 05",
+      "venue": null
+    },
+    {
+      "id": 558452,
+      "competition": "SA",
+      "utcDate": "2027-01-09T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AC Monza",
+      "awayTeam": "Frosinone Calcio",
+      "venue": null
+    },
+    {
+      "id": 565902,
+      "competition": "BL1",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "FC Augsburg",
+      "venue": null
+    },
+    {
+      "id": 565904,
+      "competition": "BL1",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "SC Freiburg",
+      "venue": null
+    },
+    {
+      "id": 565905,
+      "competition": "BL1",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "FC Schalke 04",
+      "venue": null
+    },
+    {
+      "id": 565906,
+      "competition": "BL1",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "SV 07 Elversberg",
+      "venue": null
+    },
+    {
+      "id": 565910,
+      "competition": "BL1",
+      "utcDate": "2027-01-09T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "RB Leipzig",
+      "venue": null
+    },
+    {
+      "id": 558458,
+      "competition": "SA",
+      "utcDate": "2027-01-09T17:00:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AS Roma",
+      "awayTeam": "AC Milan",
+      "venue": null
+    },
+    {
+      "id": 565907,
+      "competition": "BL1",
+      "utcDate": "2027-01-09T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Borussia Mönchengladbach",
+      "awayTeam": "FC Bayern München",
+      "venue": null
+    },
+    {
+      "id": 558455,
+      "competition": "SA",
+      "utcDate": "2027-01-09T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Bologna FC 1909",
+      "awayTeam": "Genoa CFC",
+      "venue": null
+    },
+    {
+      "id": 564808,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Villarreal CF",
+      "venue": null
+    },
+    {
+      "id": 564809,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Elche CF",
+      "awayTeam": "Getafe CF",
+      "venue": null
+    },
+    {
+      "id": 564810,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "Levante UD",
+      "venue": null
+    },
+    {
+      "id": 564811,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "FC Barcelona",
+      "venue": null
+    },
+    {
+      "id": 564812,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RC Deportivo La Coruña",
+      "awayTeam": "Rayo Vallecano de Madrid",
+      "venue": null
+    },
+    {
+      "id": 564813,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Club Atlético de Madrid",
+      "awayTeam": "Real Racing Club de Santander",
+      "venue": null
+    },
+    {
+      "id": 564814,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Deportivo Alavés",
+      "awayTeam": "Real Sociedad de Fútbol",
+      "venue": null
+    },
+    {
+      "id": 564815,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "RC Celta de Vigo",
+      "venue": null
+    },
+    {
+      "id": 564816,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Real Betis Balompié",
+      "venue": null
+    },
+    {
+      "id": 564817,
+      "competition": "PD",
+      "utcDate": "2027-01-10T00:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Valencia CF",
+      "awayTeam": "Málaga CF",
       "venue": null
     }
   ]
