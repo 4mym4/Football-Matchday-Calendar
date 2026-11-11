@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T11:03:33.644Z",
-  "windowStart": "2026-11-03",
-  "windowEnd": "2027-01-09",
+  "generatedAt": "2026-11-11T10:48:39.553Z",
+  "windowStart": "2026-11-04",
+  "windowEnd": "2027-01-10",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,105 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 575377,
-      "competition": "CL",
-      "utcDate": "2026-11-03T17:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "FK Shakhtar Donetsk",
-      "awayTeam": "Sporting Clube de Portugal",
-      "venue": null
-    },
-    {
-      "id": 575378,
-      "competition": "CL",
-      "utcDate": "2026-11-03T17:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Galatasaray SK",
-      "awayTeam": "VfB Stuttgart",
-      "venue": null
-    },
-    {
-      "id": 575379,
-      "competition": "CL",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Feyenoord Rotterdam",
-      "awayTeam": "FC Internazionale Milano",
-      "venue": null
-    },
-    {
-      "id": 575380,
-      "competition": "CL",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "FC Barcelona",
-      "awayTeam": "Aston Villa FC",
-      "venue": null
-    },
-    {
-      "id": 575381,
-      "competition": "CL",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Club Atlético de Madrid",
-      "awayTeam": "FC Bayern München",
-      "venue": null
-    },
-    {
-      "id": 575382,
-      "competition": "CL",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Villarreal CF",
-      "awayTeam": "Paris Saint-Germain FC",
-      "venue": null
-    },
-    {
-      "id": 575383,
-      "competition": "CL",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Manchester United FC",
-      "awayTeam": "AS Roma",
-      "venue": null
-    },
-    {
-      "id": 575384,
-      "competition": "CL",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "FK Bodø/Glimt",
-      "awayTeam": "Lille OSC",
-      "venue": null
-    },
-    {
-      "id": 575385,
-      "competition": "CL",
-      "utcDate": "2026-11-03T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "LASK Linz",
-      "awayTeam": "ŠK Slovan Bratislava",
-      "venue": null
-    },
     {
       "id": 575386,
       "competition": "CL",
@@ -4905,6 +4806,83 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Valencia CF",
       "awayTeam": "Málaga CF",
+      "venue": null
+    },
+    {
+      "id": 558457,
+      "competition": "SA",
+      "utcDate": "2027-01-10T11:30:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Como 1907",
+      "awayTeam": "SS Lazio",
+      "venue": null
+    },
+    {
+      "id": 558449,
+      "competition": "SA",
+      "utcDate": "2027-01-10T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "ACF Fiorentina",
+      "awayTeam": "US Lecce",
+      "venue": null
+    },
+    {
+      "id": 558454,
+      "competition": "SA",
+      "utcDate": "2027-01-10T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Parma Calcio 1913",
+      "awayTeam": "Venezia FC",
+      "venue": null
+    },
+    {
+      "id": 565909,
+      "competition": "BL1",
+      "utcDate": "2027-01-10T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "1. FC Union Berlin",
+      "venue": null
+    },
+    {
+      "id": 565903,
+      "competition": "BL1",
+      "utcDate": "2027-01-10T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "venue": null
+    },
+    {
+      "id": 558451,
+      "competition": "SA",
+      "utcDate": "2027-01-10T17:00:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Torino FC",
+      "awayTeam": "Atalanta BC",
+      "venue": null
+    },
+    {
+      "id": 558453,
+      "competition": "SA",
+      "utcDate": "2027-01-10T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "Juventus FC",
       "venue": null
     }
   ]
