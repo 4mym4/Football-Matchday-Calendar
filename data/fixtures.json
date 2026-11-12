@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T10:48:39.553Z",
-  "windowStart": "2026-11-04",
-  "windowEnd": "2027-01-10",
+  "generatedAt": "2026-11-12T10:58:04.045Z",
+  "windowStart": "2026-11-05",
+  "windowEnd": "2027-01-11",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,105 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 575386,
-      "competition": "CL",
-      "utcDate": "2026-11-04T17:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "PAE AEK",
-      "awayTeam": "Real Madrid CF",
-      "venue": null
-    },
-    {
-      "id": 575387,
-      "competition": "CL",
-      "utcDate": "2026-11-04T17:45:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Fenerbahçe SK",
-      "awayTeam": "Liverpool FC",
-      "venue": null
-    },
-    {
-      "id": 575388,
-      "competition": "CL",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Manchester City FC",
-      "venue": null
-    },
-    {
-      "id": 575389,
-      "competition": "CL",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "SK Slavia Praha",
-      "awayTeam": "Arsenal FC",
-      "venue": null
-    },
-    {
-      "id": 575390,
-      "competition": "CL",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "PSV",
-      "awayTeam": "Club Brugge KV",
-      "venue": null
-    },
-    {
-      "id": 575391,
-      "competition": "CL",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Borussia Dortmund",
-      "awayTeam": "Real Betis Balompié",
-      "venue": null
-    },
-    {
-      "id": 575392,
-      "competition": "CL",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "FC Porto",
-      "awayTeam": "SSC Napoli",
-      "venue": null
-    },
-    {
-      "id": 575393,
-      "competition": "CL",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Racing Club de Lens",
-      "awayTeam": "Como 1907",
-      "venue": null
-    },
-    {
-      "id": 575394,
-      "competition": "CL",
-      "utcDate": "2026-11-04T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 4,
-      "stage": "LEAGUE_STAGE",
-      "homeTeam": "Viking FK",
-      "awayTeam": "Sabah FK",
-      "venue": null
-    },
     {
       "id": 565852,
       "competition": "BL1",
@@ -4883,6 +4784,28 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Internazionale Milano",
       "awayTeam": "Juventus FC",
+      "venue": null
+    },
+    {
+      "id": 558456,
+      "competition": "SA",
+      "utcDate": "2027-01-11T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "US Sassuolo Calcio",
+      "venue": null
+    },
+    {
+      "id": 558450,
+      "competition": "SA",
+      "utcDate": "2027-01-11T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "SSC Napoli",
       "venue": null
     }
   ]
