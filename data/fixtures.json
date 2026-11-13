@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T10:58:04.045Z",
-  "windowStart": "2026-11-05",
-  "windowEnd": "2027-01-11",
+  "generatedAt": "2026-11-13T10:52:16.311Z",
+  "windowStart": "2026-11-06",
+  "windowEnd": "2027-01-12",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -4806,6 +4806,50 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Udinese Calcio",
       "awayTeam": "SSC Napoli",
+      "venue": null
+    },
+    {
+      "id": 565914,
+      "competition": "BL1",
+      "utcDate": "2027-01-12T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "VfB Stuttgart",
+      "venue": null
+    },
+    {
+      "id": 565911,
+      "competition": "BL1",
+      "utcDate": "2027-01-12T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "venue": null
+    },
+    {
+      "id": 565917,
+      "competition": "BL1",
+      "utcDate": "2027-01-12T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "Borussia Mönchengladbach",
+      "venue": null
+    },
+    {
+      "id": 565919,
+      "competition": "BL1",
+      "utcDate": "2027-01-12T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "Borussia Dortmund",
       "venue": null
     }
   ]
