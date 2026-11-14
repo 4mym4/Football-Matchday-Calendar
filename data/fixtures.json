@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-13T10:52:16.311Z",
-  "windowStart": "2026-11-06",
-  "windowEnd": "2027-01-12",
+  "generatedAt": "2026-11-14T10:14:55.856Z",
+  "windowStart": "2026-11-07",
+  "windowEnd": "2027-01-13",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -12,61 +12,6 @@
   ],
   "leaguesFailed": [],
   "matches": [
-    {
-      "id": 565852,
-      "competition": "BL1",
-      "utcDate": "2026-11-06T19:30:00Z",
-      "status": "FINISHED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Hamburger SV",
-      "awayTeam": "Borussia Mönchengladbach",
-      "venue": null
-    },
-    {
-      "id": 558537,
-      "competition": "SA",
-      "utcDate": "2026-11-06T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 11,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Venezia FC",
-      "awayTeam": "Udinese Calcio",
-      "venue": null
-    },
-    {
-      "id": 559638,
-      "competition": "FL1",
-      "utcDate": "2026-11-06T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 10,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Toulouse FC",
-      "awayTeam": "RC Strasbourg Alsace",
-      "venue": null
-    },
-    {
-      "id": 560634,
-      "competition": "PL",
-      "utcDate": "2026-11-06T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 10,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Everton FC",
-      "awayTeam": "Coventry City FC",
-      "venue": null
-    },
-    {
-      "id": 564740,
-      "competition": "PD",
-      "utcDate": "2026-11-06T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 12,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Deportivo Alavés",
-      "venue": null
-    },
     {
       "id": 560632,
       "competition": "PL",
@@ -4850,6 +4795,50 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "1. FC Köln",
       "awayTeam": "Borussia Dortmund",
+      "venue": null
+    },
+    {
+      "id": 565918,
+      "competition": "BL1",
+      "utcDate": "2027-01-13T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SV 07 Elversberg",
+      "awayTeam": "Eintracht Frankfurt",
+      "venue": null
+    },
+    {
+      "id": 565912,
+      "competition": "BL1",
+      "utcDate": "2027-01-13T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "Hamburger SV",
+      "venue": null
+    },
+    {
+      "id": 565915,
+      "competition": "BL1",
+      "utcDate": "2027-01-13T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "SC Paderborn 07",
+      "venue": null
+    },
+    {
+      "id": 565916,
+      "competition": "BL1",
+      "utcDate": "2027-01-13T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "Bayer 04 Leverkusen",
       "venue": null
     }
   ]
