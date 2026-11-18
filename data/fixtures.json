@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-17T11:44:05.572Z",
-  "windowStart": "2026-11-10",
-  "windowEnd": "2027-01-16",
+  "generatedAt": "2026-11-18T11:32:07.193Z",
+  "windowStart": "2026-11-11",
+  "windowEnd": "2027-01-17",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -4850,6 +4850,61 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Atalanta BC",
       "awayTeam": "AS Roma",
+      "venue": null
+    },
+    {
+      "id": 559578,
+      "competition": "FL1",
+      "utcDate": "2027-01-17T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Toulouse FC",
+      "venue": null
+    },
+    {
+      "id": 565920,
+      "competition": "BL1",
+      "utcDate": "2027-01-17T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 17,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "SV 07 Elversberg",
+      "venue": null
+    },
+    {
+      "id": 559583,
+      "competition": "FL1",
+      "utcDate": "2027-01-17T16:15:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AS Monaco FC",
+      "awayTeam": "Stade Brestois 29",
+      "venue": null
+    },
+    {
+      "id": 565924,
+      "competition": "BL1",
+      "utcDate": "2027-01-17T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 17,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "FC Schalke 04",
+      "venue": null
+    },
+    {
+      "id": 559577,
+      "competition": "FL1",
+      "utcDate": "2027-01-17T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "FC Lorient",
       "venue": null
     }
   ]
