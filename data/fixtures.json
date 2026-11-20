@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T11:30:51.253Z",
-  "windowStart": "2026-11-12",
-  "windowEnd": "2027-01-18",
+  "generatedAt": "2026-11-20T11:27:09.808Z",
+  "windowStart": "2026-11-13",
+  "windowEnd": "2027-01-19",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -4402,6 +4402,17 @@
       "venue": null
     },
     {
+      "id": 560748,
+      "competition": "PL",
+      "utcDate": "2027-01-16T12:30:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Coventry City FC",
+      "awayTeam": "Everton FC",
+      "venue": null
+    },
+    {
       "id": 565922,
       "competition": "BL1",
       "utcDate": "2027-01-16T14:30:00Z",
@@ -4457,17 +4468,6 @@
       "venue": null
     },
     {
-      "id": 560742,
-      "competition": "PL",
-      "utcDate": "2027-01-16T15:00:00Z",
-      "status": "TIMED",
-      "matchday": 21,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "AFC Bournemouth",
-      "awayTeam": "Ipswich Town FC",
-      "venue": null
-    },
-    {
       "id": 560743,
       "competition": "PL",
       "utcDate": "2027-01-16T15:00:00Z",
@@ -4487,50 +4487,6 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Chelsea FC",
       "awayTeam": "Sunderland AFC",
-      "venue": null
-    },
-    {
-      "id": 560745,
-      "competition": "PL",
-      "utcDate": "2027-01-16T15:00:00Z",
-      "status": "TIMED",
-      "matchday": 21,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Brentford FC",
-      "awayTeam": "Brighton & Hove Albion FC",
-      "venue": null
-    },
-    {
-      "id": 560746,
-      "competition": "PL",
-      "utcDate": "2027-01-16T15:00:00Z",
-      "status": "TIMED",
-      "matchday": 21,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Aston Villa FC",
-      "awayTeam": "Manchester United FC",
-      "venue": null
-    },
-    {
-      "id": 560747,
-      "competition": "PL",
-      "utcDate": "2027-01-16T15:00:00Z",
-      "status": "TIMED",
-      "matchday": 21,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Tottenham Hotspur FC",
-      "awayTeam": "Leeds United FC",
-      "venue": null
-    },
-    {
-      "id": 560748,
-      "competition": "PL",
-      "utcDate": "2027-01-16T15:00:00Z",
-      "status": "TIMED",
-      "matchday": 21,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Coventry City FC",
-      "awayTeam": "Everton FC",
       "venue": null
     },
     {
@@ -4575,6 +4531,17 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Angers SCO",
       "awayTeam": "Paris Saint-Germain FC",
+      "venue": null
+    },
+    {
+      "id": 560746,
+      "competition": "PL",
+      "utcDate": "2027-01-16T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Aston Villa FC",
+      "awayTeam": "Manchester United FC",
       "venue": null
     },
     {
@@ -4853,6 +4820,17 @@
       "venue": null
     },
     {
+      "id": 560742,
+      "competition": "PL",
+      "utcDate": "2027-01-17T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Ipswich Town FC",
+      "venue": null
+    },
+    {
       "id": 559578,
       "competition": "FL1",
       "utcDate": "2027-01-17T14:00:00Z",
@@ -4886,6 +4864,17 @@
       "venue": null
     },
     {
+      "id": 560747,
+      "competition": "PL",
+      "utcDate": "2027-01-17T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Tottenham Hotspur FC",
+      "awayTeam": "Leeds United FC",
+      "venue": null
+    },
+    {
       "id": 565924,
       "competition": "BL1",
       "utcDate": "2027-01-17T16:30:00Z",
@@ -4905,6 +4894,116 @@
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique Lyonnais",
       "awayTeam": "FC Lorient",
+      "venue": null
+    },
+    {
+      "id": 560745,
+      "competition": "PL",
+      "utcDate": "2027-01-18T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Brighton & Hove Albion FC",
+      "venue": null
+    },
+    {
+      "id": 575292,
+      "competition": "CL",
+      "utcDate": "2027-01-19T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FK Bodø/Glimt",
+      "awayTeam": "Club Atlético de Madrid",
+      "venue": null
+    },
+    {
+      "id": 575318,
+      "competition": "CL",
+      "utcDate": "2027-01-19T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Galatasaray SK",
+      "awayTeam": "Feyenoord Rotterdam",
+      "venue": null
+    },
+    {
+      "id": 575282,
+      "competition": "CL",
+      "utcDate": "2027-01-19T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "LASK Linz",
+      "venue": null
+    },
+    {
+      "id": 575285,
+      "competition": "CL",
+      "utcDate": "2027-01-19T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "Liverpool FC",
+      "venue": null
+    },
+    {
+      "id": 575302,
+      "competition": "CL",
+      "utcDate": "2027-01-19T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Club Brugge KV",
+      "venue": null
+    },
+    {
+      "id": 575303,
+      "competition": "CL",
+      "utcDate": "2027-01-19T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Aston Villa FC",
+      "awayTeam": "Borussia Dortmund",
+      "venue": null
+    },
+    {
+      "id": 575307,
+      "competition": "CL",
+      "utcDate": "2027-01-19T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "PAE AEK",
+      "awayTeam": "AS Roma",
+      "venue": null
+    },
+    {
+      "id": 575308,
+      "competition": "CL",
+      "utcDate": "2027-01-19T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "FC Porto",
+      "awayTeam": "SK Slavia Praha",
+      "venue": null
+    },
+    {
+      "id": 575321,
+      "competition": "CL",
+      "utcDate": "2027-01-19T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Lille OSC",
+      "awayTeam": "ŠK Slovan Bratislava",
       "venue": null
     }
   ]
