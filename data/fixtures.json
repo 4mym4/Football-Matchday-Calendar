@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-20T11:27:09.808Z",
-  "windowStart": "2026-11-13",
-  "windowEnd": "2027-01-19",
+  "generatedAt": "2026-11-21T10:55:02.703Z",
+  "windowStart": "2026-11-14",
+  "windowEnd": "2027-01-20",
   "leaguesRequested": [
     "PL",
     "PD",
@@ -16,7 +16,7 @@
       "id": 565859,
       "competition": "BL1",
       "utcDate": "2026-11-20T19:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Bayern München",
@@ -27,7 +27,7 @@
       "id": 559622,
       "competition": "FL1",
       "utcDate": "2026-11-20T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "homeTeam": "ES Troyes AC",
@@ -38,7 +38,7 @@
       "id": 564748,
       "competition": "PD",
       "utcDate": "2026-11-20T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Athletic Club",
@@ -5004,6 +5004,105 @@
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Lille OSC",
       "awayTeam": "ŠK Slovan Bratislava",
+      "venue": null
+    },
+    {
+      "id": 575314,
+      "competition": "CL",
+      "utcDate": "2027-01-20T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Fenerbahçe SK",
+      "awayTeam": "Villarreal CF",
+      "venue": null
+    },
+    {
+      "id": 575320,
+      "competition": "CL",
+      "utcDate": "2027-01-20T17:45:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Sabah FK",
+      "awayTeam": "SSC Napoli",
+      "venue": null
+    },
+    {
+      "id": 575284,
+      "competition": "CL",
+      "utcDate": "2027-01-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Racing Club de Lens",
+      "awayTeam": "Manchester City FC",
+      "venue": null
+    },
+    {
+      "id": 575288,
+      "competition": "CL",
+      "utcDate": "2027-01-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Sporting Clube de Portugal",
+      "awayTeam": "FC Barcelona",
+      "venue": null
+    },
+    {
+      "id": 575294,
+      "competition": "CL",
+      "utcDate": "2027-01-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Como 1907",
+      "awayTeam": "Paris Saint-Germain FC",
+      "venue": null
+    },
+    {
+      "id": 575297,
+      "competition": "CL",
+      "utcDate": "2027-01-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "Arsenal FC",
+      "venue": null
+    },
+    {
+      "id": 575300,
+      "competition": "CL",
+      "utcDate": "2027-01-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Manchester United FC",
+      "awayTeam": "FC Bayern München",
+      "venue": null
+    },
+    {
+      "id": 575312,
+      "competition": "CL",
+      "utcDate": "2027-01-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "Viking FK",
+      "awayTeam": "PSV",
+      "venue": null
+    },
+    {
+      "id": 575313,
+      "competition": "CL",
+      "utcDate": "2027-01-20T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "LEAGUE_STAGE",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "FK Shakhtar Donetsk",
       "venue": null
     }
   ]
